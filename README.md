@@ -24,7 +24,7 @@ DELL-Laptop#>yast
  YaST2 - lan @ pcname
 
 Network Settings
-l Global Options	-	Overview	-	Hostname/DNS	-	Routing
+l Global Options	-	*Overview	-	Hostname/DNS	-	Routing
 l--------------------------------------------------------------------------------------------------------------------|
 | Name                                           					IP Address    		Device  |
 | BCM4401-B0 100Base-TX                          				172.16.1.1/16 	eth0     |
@@ -46,7 +46,7 @@ l-------------------------------------------------------------------------------
 
 
 Network Settings
-l Global Options	-	Overview	-	Hostname/DNS	-	Routing
+l *Global Options	-	Overview	-	Hostname/DNS	-	Routing
 l--------------------------------------------------------------------------------------------------------------------|
 | Network Setup Method
 | Wicked Service
@@ -64,7 +64,7 @@ l-------------------------------------------------------------------------------
 
 
 Network Settings
-l Global Options	-	Overview	-	Hostname/DNS	-	Routing
+l Global Options	-	Overview	-	*Hostname/DNS	-	Routing
 l--------------------------------------------------------------------------------------------------------------------|
 | Hostname
 | DELL-Laptop
@@ -84,7 +84,7 @@ l-------------------------------------------------------------------------------
 
 
 Network Settings
-l Global Options	-	Overview	-	Hostname/DNS	-	Routing
+l Global Options	-	Overview	-	Hostname/DNS	-	*Routing
 l--------------------------------------------------------------------------------------------------------------------|
 | [x] Enable IPv4 Forwarding
 | [x] Enable IPv6 Forwarding
